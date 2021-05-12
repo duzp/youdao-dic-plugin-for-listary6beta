@@ -1,7 +1,7 @@
 const axios = require("axios");
 const sha256 = require("./sha256.js");
-var id = "应用id";
-var key = "应用密钥";
+var id = "36c071e3fd6093c7";
+var key = "AZxnH1zxRfmRkavF7sFIzwoNrAbesdRN";
 
 
 function truncate(q){
